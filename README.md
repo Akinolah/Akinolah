@@ -1,5 +1,3 @@
-<!-- 🚀 Epic Interactive GitHub Profile README -->
-
 <h1 align="center">Hi 👋, I'm Olatowo Abdulquyum Akinola</h1>
 <h3 align="center">🚀 Fullstack Developer | SaaS & Marketplace Builder | Problem Solver</h3>
 
