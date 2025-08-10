@@ -30,12 +30,12 @@
 
 ## 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Akinolah&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akinolah&theme=tokyonight" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&bg_color=0D1117&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akinolah&theme=react-dark&bg_color=0D1117&hide_border=true" />
 </p>
 
 ---
@@ -58,34 +58,36 @@
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+  <img src="https://github.com/Akinolah/Akinolah/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 <p align="center">
-  <a href="https://github.com/yourusername/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=tokyonight" />
+  <!-- ICSTMN Project -->
+  <a href="https://icstmn.vercel.app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Akinolah&repo=ICSTMN&theme=tokyonight" alt="ICSTMN Project" />
   </a>
-  <a href="https://github.com/yourusername/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=tokyonight" />
+
+  <!-- Restaurant Project -->
+  <a href="https://akinolah.github.io/restaurant/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Akinolah&repo=restaurant&theme=tokyonight" alt="Restaurant Website" />
   </a>
 </p>
-
 ---
 
 ## 🌎 Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/akinolah"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://x.com/Akin_ola__?"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
+  <a href="mailto:olatowoabdulquyum17@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile+Views&color=22d3ee&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Akinolah&label=Profile+Views&color=22d3ee&style=flat" />
 </p>
 
 <p align="center"><i>💻 Code. 🚀 Build. 🌟 Inspire.</i></p>
