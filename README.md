@@ -17,13 +17,13 @@
 - 🚀 Passionate about **real-time apps, AI integrations, and cloud solutions**  
 - 🎯 Focused on **scalable SaaS platforms & marketplaces**  
 - 💬 Ask me about **Fullstack development, APIs, and DevOps**  
-- 📫 Reach me: **youremail@example.com**  
+- 📫 Reach me: **olatowoabdulquyum17@gmail.com**  
 
 ---
 
 ## 🛠 Tech Stack & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,scss,tailwind,js,ts,react,nextjs,nodejs,php,mysql,supabase,git,github,docker,linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,scss,bootstrap,tailwind,js,ts,react,nextjs,vitej,vuejs,expressjs,fastify,nodejs,php,mysql,mongodb,supabase,git,github,docker,linux" />
 </p>
 
 ---
