@@ -1,10 +1,10 @@
 <!-- 🚀 Epic Interactive GitHub Profile README -->
 
-<h1 align="center">Hi 👋, I'm Abdulquyum</h1>
+<h1 align="center">Hi 👋, I'm Olatowo Abdulquyum Akinola</h1>
 <h3 align="center">🚀 Fullstack Developer | SaaS & Marketplace Builder | Problem Solver</h3>
 
 <p align="center">
-  <a href="https://github.com/yourusername">
+  <a href="https://github.com/Akinolah">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Fullstack+Developer;SaaS+%26+Marketplace+Architect;AI+%26+Automation+Explorer;Clean+Code+%7C+Scalable+Solutions;Turning+Ideas+Into+Reality" alt="Typing SVG" />
   </a>
 </p>
@@ -13,7 +13,7 @@
 
 ## 👨‍💻 About Me
 - 💡 Turning **"What if?"** ideas into **production-ready** solutions  
-- 🛠 Working with **React, Next.js, Node.js, PHP, MySQL, Supabase, TailwindCSS**  
+- 🛠 Working with **React, Next.js, Vite.js, Node.js, Express.js, Fastify.js, Next.js, PHP, MySQL, MongoDB Supabase, BootstrapCSS, TailwindCSS**  
 - 🚀 Passionate about **real-time apps, AI integrations, and cloud solutions**  
 - 🎯 Focused on **scalable SaaS platforms & marketplaces**  
 - 💬 Ask me about **Fullstack development, APIs, and DevOps**  
