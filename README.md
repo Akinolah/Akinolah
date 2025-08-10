@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/Akinolah">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Fullstack+Developer;SaaS+%26+Marketplace+Architect;AI+%26+Automation+Explorer;Clean+Code+%7C+Scalable+Solutions;Turning+Ideas+Into+Reality" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Problem+Solver;Open+Source+Contributor;AI+%26+Automation+Explorer;Clean+Code+%7C+Scalable+Solutions;Turning+Ideas+Into+Reality" alt="Typing SVG" />
   </a>
 </p>
 
